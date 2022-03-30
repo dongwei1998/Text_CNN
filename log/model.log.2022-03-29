@@ -1,0 +1,186 @@
+2022-03-29 17:13:56|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:13:56|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:13:56|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-03-29 17:14:20|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:14:20|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:14:21|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:14:21|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:17:07|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:17:07|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:17:07|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-03-29 17:17:16|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:17:16|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:17:16|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:17:16|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:17:16|INFO|train.py[:127]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:17:16|INFO|train.py[:128]|Train/Dev split: 2807/935
+2022-03-29 17:17:16|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:17:17|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:17:17|INFO|train.py[:75]|model train ...
+2022-03-29 17:17:45|INFO|train.py[:139]|Test...
+2022-03-29 17:17:45|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:18:47|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:18:47|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:18:47|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:29 | power.limit:1 | specified:True
+2022-03-29 17:18:56|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:18:56|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:18:56|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:18:56|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:18:56|INFO|train.py[:127]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:18:56|INFO|train.py[:128]|Train/Dev split: 2807/935
+2022-03-29 17:18:56|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:18:57|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:18:57|INFO|train.py[:75]|model train ...
+2022-03-29 17:19:24|INFO|train.py[:139]|Test...
+2022-03-29 17:19:24|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:22:33|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:22:33|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:22:33|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-03-29 17:22:42|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:22:42|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:22:43|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:22:43|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:22:43|INFO|train.py[:127]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:22:43|INFO|train.py[:128]|Train/Dev split: 2807/935
+2022-03-29 17:22:43|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:22:43|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:22:43|INFO|train.py[:75]|model train ...
+2022-03-29 17:23:10|INFO|train.py[:139]|Test...
+2022-03-29 17:23:10|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:24:05|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:24:05|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:24:05|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:33 | power.limit:1 | specified:True
+2022-03-29 17:24:28|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:24:28|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:24:29|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:24:29|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:24:32|INFO|train.py[:127]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:24:32|INFO|train.py[:128]|Train/Dev split: 2807/935
+2022-03-29 17:25:09|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:25:24|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:25:24|INFO|train.py[:75]|model train ...
+2022-03-29 17:25:38|INFO|train.py[:139]|Test...
+2022-03-29 17:25:39|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:28:13|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:28:13|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:28:13|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:30 | power.limit:1 | specified:True
+2022-03-29 17:28:22|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:28:22|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:28:23|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:28:23|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:28:23|INFO|train.py[:127]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:28:23|INFO|train.py[:128]|Train/Dev split: 2807/935
+2022-03-29 17:28:23|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:28:23|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:28:23|INFO|train.py[:75]|model train ...
+2022-03-29 17:28:35|INFO|train.py[:139]|Test...
+2022-03-29 17:28:35|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:28:35|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:28:58|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:28:58|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:28:58|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:30 | power.limit:1 | specified:True
+2022-03-29 17:29:07|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:29:07|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:29:08|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:29:08|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:29:08|INFO|train.py[:127]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:29:08|INFO|train.py[:128]|Train/Dev split: 2807/935
+2022-03-29 17:29:08|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:29:08|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:29:08|INFO|train.py[:75]|model train ...
+2022-03-29 17:29:18|INFO|train.py[:139]|Test...
+2022-03-29 17:29:18|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:29:18|INFO|train.py[:25]|Bulid Model...
+2022-03-29 17:31:21|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:31:21|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:31:21|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-03-29 17:31:30|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:31:30|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:31:31|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:31:31|INFO|train.py[:119]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:31:31|INFO|train.py[:124]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:31:31|INFO|train.py[:125]|Train/Dev split: 2807/935
+2022-03-29 17:31:31|INFO|train.py[:26]|Bulid Model...
+2022-03-29 17:31:31|INFO|train.py[:70]|Load the pre-training model
+2022-03-29 17:31:31|INFO|train.py[:76]|model train ...
+2022-03-29 17:31:41|INFO|train.py[:136]|Test...
+2022-03-29 17:31:42|INFO|train.py[:87]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:32:30|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:32:30|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:32:30|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-03-29 17:32:39|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:32:39|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:32:40|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:32:40|INFO|train.py[:120]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:32:40|INFO|train.py[:124]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:32:40|INFO|train.py[:125]|Train/Dev split: 2807/935
+2022-03-29 17:32:40|INFO|train.py[:27]|Bulid Model...
+2022-03-29 17:32:40|INFO|train.py[:71]|Load the pre-training model
+2022-03-29 17:32:40|INFO|train.py[:77]|model train ...
+2022-03-29 17:32:50|INFO|train.py[:134]|Test...
+2022-03-29 17:32:51|INFO|train.py[:88]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:33:26|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:33:26|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:33:26|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:30 | power.limit:1 | specified:True
+2022-03-29 17:33:35|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:33:35|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:33:35|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:33:35|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:33:35|INFO|train.py[:122]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:33:35|INFO|train.py[:123]|Train/Dev split: 2807/935
+2022-03-29 17:33:35|INFO|train.py[:27]|Bulid Model...
+2022-03-29 17:33:36|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:33:36|INFO|train.py[:75]|model train ...
+2022-03-29 17:33:46|INFO|train.py[:132]|Test...
+2022-03-29 17:33:46|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:36:05|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 17:36:05|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 17:36:05|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:33 | power.limit:1 | specified:True
+2022-03-29 17:36:14|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 17:36:14|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 17:36:14|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 17:36:15|INFO|train.py[:118]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 17:36:15|INFO|train.py[:122]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 17:36:15|INFO|train.py[:123]|Train/Dev split: 2807/935
+2022-03-29 17:36:15|INFO|train.py[:27]|Bulid Model...
+2022-03-29 17:36:15|INFO|train.py[:69]|Load the pre-training model
+2022-03-29 17:36:15|INFO|train.py[:75]|model train ...
+2022-03-29 17:37:06|INFO|train.py[:132]|Test...
+2022-03-29 17:37:07|INFO|train.py[:86]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 17:37:07|INFO|train.py[:144]|Restored model, accuracy: 90.16%
+2022-03-29 18:08:04|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 18:08:04|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 18:08:04|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:29 | power.limit:1 | specified:True
+2022-03-29 18:08:13|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 18:08:13|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 18:08:14|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 18:08:14|INFO|train.py[:117]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 18:08:38|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 18:08:38|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 18:08:38|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:29 | power.limit:1 | specified:True
+2022-03-29 18:08:46|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 18:08:46|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 18:08:47|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 18:08:47|INFO|train.py[:117]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 18:08:47|INFO|train.py[:122]|Vocabulary Size（词汇大小）: 10366
+2022-03-29 18:08:47|INFO|train.py[:123]|Train/Dev split: 2807/935
+2022-03-29 18:08:47|INFO|train.py[:26]|Bulid Model...
+2022-03-29 18:08:47|INFO|train.py[:68]|Load the pre-training model
+2022-03-29 18:08:47|INFO|train.py[:74]|model train ...
+2022-03-29 18:08:59|INFO|train.py[:132]|Test...
+2022-03-29 18:08:59|INFO|train.py[:85]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 18:10:19|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-03-29 18:10:19|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-03-29 18:10:19|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-03-29 18:10:28|INFO|token_2_data.py[:31]|保存 label_2_id 映射！！！
+2022-03-29 18:10:28|INFO|token_2_data.py[:39]|构建词汇表映射关系！！！
+2022-03-29 18:10:29|INFO|token_2_data.py[:42]|保存 word_2_id 映射！！
+2022-03-29 18:10:29|INFO|train.py[:117]|x_train shape:(2807, 500) --- x_val shape:(935, 500) --- y_train shape:(2807,) --- y_val shape: (935,)
+2022-03-29 18:10:29|INFO|train.py[:122]|Vocabulary Size（词汇大小）: 10367
+2022-03-29 18:10:29|INFO|train.py[:123]|Train/Dev split: 2807/935
+2022-03-29 18:10:29|INFO|train.py[:26]|Bulid Model...
+2022-03-29 18:10:29|INFO|train.py[:68]|Load the pre-training model
+2022-03-29 18:10:29|INFO|train.py[:74]|model train ...
+2022-03-29 18:10:40|INFO|train.py[:132]|Test...
+2022-03-29 18:10:40|INFO|train.py[:85]|restore model name is : ./alphamind\text_cnn.model.ckpt
+2022-03-29 18:10:40|INFO|train.py[:144]|Restored model, accuracy: 90.16%
